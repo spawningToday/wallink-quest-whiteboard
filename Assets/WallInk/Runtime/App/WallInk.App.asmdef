@@ -1,0 +1,12 @@
+{
+    "name": "WallInk.App",
+    "rootNamespace": "WallInk",
+    "references": [
+        "WallInk.Core",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true
+}

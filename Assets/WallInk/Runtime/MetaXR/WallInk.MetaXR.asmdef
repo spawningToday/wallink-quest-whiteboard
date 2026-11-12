@@ -1,0 +1,13 @@
+{
+    "name": "WallInk.MetaXR",
+    "rootNamespace": "WallInk.MetaXR",
+    "references": [
+        "WallInk.Core",
+        "Oculus.VR",
+        "meta.xr.mrutilitykit"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true
+}

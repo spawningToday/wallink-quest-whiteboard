@@ -1,0 +1,9 @@
+{
+    "name": "WallInk.Core",
+    "rootNamespace": "WallInk",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true
+}
